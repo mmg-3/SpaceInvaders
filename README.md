@@ -1,3 +1,8 @@
 # SpaceInvaders
 
-Space Invaders
+Basic Java implenetation of Space Invaders 
+
+
+
+
+created 2012
